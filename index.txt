@@ -157,7 +157,7 @@ Web development
 
 alt = fundo
 Fundo
-Web design
+Firmware development
 
 alt = brawlhalla
 Brawlhalla
